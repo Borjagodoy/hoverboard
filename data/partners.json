@@ -1,16 +1,5 @@
 [
   {
-    "title": "template-creator",
-    "logos": [
-      {
-        "name": "GDG Lviv",
-        "url": "https://plus.google.com/102444623953913144164",
-        "logoUrl": "../images/logos/gdg-lviv.svg",
-        "width": 170
-      }
-    ]
-  },
-  {
     "title": "general-partner",
     "logos": [
       {
@@ -19,54 +8,49 @@
         "logoUrl": "../images/logos/google.svg"
       },
       {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
+        "name": "Karumi",
+        "url": "https://www.karumi.com/",
+        "logoUrl": "https://static1.squarespace.com/static/56dd9af5e707eb815a7f9c86/t/56fbab3d2eeb817eecc15a0c/1549801483737/"
       },
       {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
+        "name": "47Deg",
+        "url": "https://www.47deg.com/",
+        "logoUrl": "../images/logos/47degicon.jpg"
       },
       {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
+        "name": "cabify",
+        "url": "https://cabify.com/en",
+        "logoUrl": "../images/logos/cabifylogo.png"
       },
       {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
+        "name": "Mobbel",
+        "url": "https://www.mobbeel.com",
+        "logoUrl": "https://www.mobbeel.com/wp-content/uploads/2018/08/logo-mobbeel.png"
       },
       {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
+        "name": "Sngular",
+        "url": "https://sngular.com",
+        "logoUrl": "https://sngular.com/wp-content/uploads/2018/10/logo_.png"
+      }
+    ]
+  },
+  {
+    "title": "colaboration",
+    "logos": [
       {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
+        "name": "FundecytPCTEX",
+        "url": "http://www.fundecyt.es/index.php?idioma=es",
+        "logoUrl": "http://www.fundecyt.es/images/fundecyt-pctex-h.png"
+      }
+    ]
+  },
+  {
+    "title": "support",
+    "logos": [
       {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
+        "name": "Escuela politecnica de Cáceres",
+        "url": "https://www.unex.es/conoce-la-uex/centros/epcc/",
+        "logoUrl": "http://www.cenits.es/sites/cenits.es/files/noticias/logoepcc.jpg"
       }
     ]
   }

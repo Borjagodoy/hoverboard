@@ -212,117 +212,97 @@
     "7": {
         "id": 7,
         "featured": true,
-        "name": "Jozef Vodicka",
-        "title": "Developer Relations Program Manager",
-        "company": "Google",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Prague, Czech Republic",
-        "photoUrl": "/images/people/jozef_vodicka.jpg",
-        "shortBio": "TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia.",
-        "bio": "Right now he is a passionate Googler helping developers and companies in South CEE to be more successful and profitable.\n\nHe co-founded and lead several StartUPs such as Venzeo.com, TrashOut.ngo, Matura.sk and Stuzkova.EU.\n\nHe is TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia. He gets things done.",
+        "name": "Jorge Barroso",
+        "title": "Cofounder & Android Expert",
+        "company": "Karumi",
+        "companyLogo": "https://static1.squarespace.com/static/56dd9af5e707eb815a7f9c86/t/56fbab3d2eeb817eecc15a0c/1549801483737/?format=1500w",
+        "country": "Manchita",
+        "photoUrl": "/images/people/jorge-barroso.png",
+        "shortBio": "",
+        "bio": "",
         "tags": [
-            "Cloud",
-            "Firebase"
+            "Android",
+            "Videojuegos"
         ],
         "badges": [
-
+            {
+                "name": "GDE",
+                "description": "Google Developers Expert",
+                "link": "https://developers.google.com/experts/people/jorge-juan-barroso-carmona"
+            }
         ],
         "socials": [
             {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/jozefvodicka"
+                "link": "https://www.linkedin.com/in/jorge-juan-barroso-carmona-a3aa225"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/jozefvodicka"
+                "link": "https://twitter.com/flipper83"
             },
             {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+JozefVodicka"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/jozef.vodicka"
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/flipper83"
             }
         ]
     },
     "11": {
         "id": 11,
-        "featured": false,
-        "name": "Jean-Baptiste Clion",
-        "title": "Founder",
-        "company": "Apeser",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Basel, Switzerland",
-        "photoUrl": "/images/people/jean-baptiste_clion.jpg",
-        "shortBio": "Founder and co-organiser of GDG Basel. Worked in Defence & Aeronautics, Finance & Consulting industries.",
-        "bio": "Jean-Baptiste Clion (AKA JB) is a senior cloud engineer working with Google Technologies since 2007.  He is the founder and co-organiser of GDG Basel, Switzerland. Jean-Baptiste worked in various industries such as Defence & Aeronautics, Finance & Consulting. In his last position, JB was Google Practice Lead at Capgemini Switzerland, he is now co-founding a startup dedicated to Progressive Web Apps solutions relying on cloud technologies.",
+        "featured": true,
+        "name": "Elena Torró",
+        "title": "Front-end developer",
+        "company": "Carto",
+        "companyLogo": "/images/logos/CARTO-logo-positive.png",
+        "country": "Murcia",
+        "photoUrl": "/images/people/elenatorro.jpg",
+        "shortBio": "Multimedia Engineer born in Murcia. I love experimenting with web technologies, that's one of the reasons why I joined the frontend team at CARTO",
+        "bio": "Multimedia Engineer born in Murcia. I love experimenting with web technologies, that's one of the reasons why I joined the frontend team at CARTO. I also enjoy water sports, playing music, and writing science fiction stories, between others.",
         "tags": [
-            "Cloud",
-            "AppEngine",
-            "Microservices"
+            "Web"
         ],
         "badges": [
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Basel",
-                "link": "https://developers.google.com/groups/chapter/104796338340371914914/"
-            }
         ],
         "socials": [
             {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/jbclion"
-            },
-            {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://ch.linkedin.com/in/jean-baptiste-clion-3196415"
+                "link": "https://www.linkedin.com/in/elenatorro"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/JBaptisteClion"
+                "link": "https://twitter.com/eletorro"
             },
             {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+JeanBaptisteClionBasel/posts"
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/elenatorro"
             }
         ]
     },
     "17": {
         "id": 17,
         "featured": false,
-        "name": "Jana Moudra",
-        "title": "Co-Founder",
-        "company": "Juicymo",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Prague, Czech Republic",
-        "photoUrl": "/images/people/jana_moudra.jpg",
-        "shortBio": "GDG Prague organizer. Android and Dart enthusiast. Co-founder of a company called Juicymo.",
-        "bio": "GDE (Google Developer Expert) for Dart. Jana is a passionate developer and modern web and mobile technology evangelist. She is an event organiser for GDG Prague, where she arranges events for developers including public lectures, code labs and hackathons \u2013 covering a wide range of subjects including technologies Dart or Android. She loves to help other developers and spread the knowledge about these technologies. \n\nJana co-founded a company called Juicymo, where she works on juicy apps and products and teaches at Unicorn College.",
+        "name": "Jose Luis Ugia",
+        "title": "Developer Program Enginneer",
+        "company": "Google",
+        "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png",
+        "country": "Malaga",
+        "photoUrl": "/images/people/JoseUgia.jpeg",
+        "shortBio": "",
+        "bio": "",
         "tags": [
             "Android",
-            "Testing",
-            "UiAutomator",
-            "Dart"
+            "Cloud"
         ],
         "badges": [
             {
                 "name": "GDE",
-                "description": "Dart Google Developer Expert",
+                "description": "Cloud Google Developer Expert",
                 "link": "https://developers.google.com/experts/people/jana-moudr.html"
-            },
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Prague",
-                "link": "https://developers.google.com/groups/chapter/111919016509847766513/"
             }
         ],
         "socials": [
@@ -352,98 +332,38 @@
     "18": {
         "id": 18,
         "featured": false,
-        "name": "Jakub \u0160kv\u00e1ra",
-        "title": "Frontend engineer",
-        "company": "Shipito",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Prague, Czech Republic",
-        "photoUrl": "/images/people/jakub_\u0161kv\u00e1ra.jpg",
-        "shortBio": "Jakub is a front-end engineer at Shipito interested in modern web frameworks, libraries and tools...",
-        "bio": "Jakub is a front-end engineer at Shipito interested in modern web frameworks, libraries and tools. Jakub is also a member of GDG Prague and GDG \u010cVUT in the Czech republic.",
+        "name": "Por presentar",
+        "title": "",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "http://principiosactivos.com/wp-content/uploads/2018/02/silueta-mujer.jpg",
+        "shortBio": "",
+        "bio": "",
         "tags": [
-            "Web",
-            "AngularJS",
-            "ReactJS",
-            "NodeJS",
-            "Progressive Web Apps",
-            "RAIL"
         ],
         "badges": [
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Prague",
-                "link": "https://developers.google.com/groups/chapter/111919016509847766513/"
-            }
         ],
         "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/@skvaros"
-            },
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+JakubSkvara/"
-            }
         ]
     },
 
     "26": {
         "id": 26,
         "featured": false,
-        "name": "Resul Caner  Yildirim",
-        "title": "User Experience Expert",
-        "company": "InnovationBox",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Istanbul, Turkey",
-        "photoUrl": "/images/people/resul caner_yildirim.jpg",
-        "shortBio": "Caner is a GDE on UX/UI who is also a technology geek. Mainly focused on the design and marketing...",
-        "bio": "Caner is a GDE on UX/UI who is also a technology geek. Mainly focused on the design and marketing of mobile applications. Passionate about good UX, IoT and Android. He works at InnovationBox, a design agency in Istanbul making and creating apps that users love. Caner has been an organiser of GDG Istanbul since 2013, organising, participating, and speaking at events.",
+        "name": "Por presentar",
+        "title": "",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "https://estudiovertice.com/wp-content/uploads/2017/03/silueta2.jpg",
+        "shortBio": "",
+        "bio": "",
         "tags": [
-            "Android",
-            "UX/UI",
-            "Android Wear",
-            "IoT"
         ],
         "badges": [
-            {
-                "name": "GDE",
-                "description": "UI/UX Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/resul-caner-y-ld-r-m.html"
-            },
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Istanbul",
-                "link": "https://developers.google.com/groups/chapter/100514812580249787371/"
-            }
         ],
         "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/protechman"
-            },
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+rcaneryildirim"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://facebook.com/r.caner.yildirim"
-            },
-            {
-                "icon": "website",
-                "name": "Website",
-                "link": "https://dribbble.com/protechman"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://linkedin.com/in/protechman"
-            }
         ]
     }
 }
