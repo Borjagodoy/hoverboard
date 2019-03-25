@@ -31,6 +31,16 @@
         "name": "Sngular",
         "url": "https://sngular.com",
         "logoUrl": "https://sngular.com/wp-content/uploads/2018/10/logo_.png"
+      },
+      {
+        "name": "Homeria",
+        "url": "https://www.homeria.com/en/home/",
+        "logoUrl": "https://www.homeria.com/wp-content/uploads/2018/02/Logo2018.png"
+      },
+      {
+        "name": "ASPgems",
+        "url": "https://aspgems.com/",
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx2BJMrrQiTtnMoU2yLdLsPglJ_a4lnwzDErfrI-231Zy59boBLm19AJU"
       }
     ]
   },
