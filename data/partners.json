@@ -46,6 +46,16 @@
         "name": "EDD",
         "url": "https://www.extremaduradigitalday.com/",
         "logoUrl": "https://pbs.twimg.com/profile_images/1022766462392520706/8fE64L7q_400x400.jpg"
+      },
+      {
+        "name": "Fictizia",
+        "url": "https://www.fictizia.com/",
+        "logoUrl": "../images/logos/fictizia.svg"
+      },
+      {
+        "name": "Vertical Galery",
+        "url": "https://play.google.com/store/apps/details?id=com.mobsnake.verticalgallery&hl=es",
+        "logoUrl": "../images/logos/vertical_gallery_banner.png"
       }
     ]
   },
