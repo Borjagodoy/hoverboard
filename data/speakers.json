@@ -251,46 +251,6 @@
             }
         ]
     },
-        "7": {
-        "id": 7,
-        "featured": true,
-        "name": "Jorge Barroso",
-        "title": "Cofounder & Android Expert",
-        "company": "Karumi",
-        "companyLogo": "https://static1.squarespace.com/static/56dd9af5e707eb815a7f9c86/t/56fbab3d2eeb817eecc15a0c/1549801483737/?format=1500w",
-        "country": "Manchita",
-        "photoUrl": "/images/people/jorge-barroso.png",
-        "shortBio": "",
-        "bio": "",
-        "tags": [
-            "Android",
-            "Videojuegos"
-        ],
-        "badges": [
-            {
-                "name": "GDE",
-                "description": "Google Developers Expert",
-                "link": "https://developers.google.com/experts/people/jorge-juan-barroso-carmona"
-            }
-        ],
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/jorge-juan-barroso-carmona-a3aa225"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/flipper83"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/flipper83"
-            }
-        ]
-    },
     "11": {
         "id": 11,
         "featured": true,
