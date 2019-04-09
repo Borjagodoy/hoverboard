@@ -323,15 +323,16 @@
     "18": {
         "id": 18,
         "featured": false,
-        "name": "Por presentar",
-        "title": "",
-        "company": "",
-        "companyLogo": "",
-        "country": "",
-        "photoUrl": "http://principiosactivos.com/wp-content/uploads/2018/02/silueta-mujer.jpg",
-        "shortBio": "",
-        "bio": "",
+        "name": "Maria Martínez Martínez",
+        "title": "Software Quality Engineer",
+        "company": "Optiva Media/Metadatol",
+        "companyLogo": "/images/logos/optiva.png",
+        "country": "Madrid",
+        "photoUrl": "/images/people/Maria.jpg",
+        "shortBio": "María Martínez is a senior software quality engineer responsible of coordinate and manage test plans execution, features validation and automated testing for digital tv solutions following agile methodologies.",
+        "bio": "María Martínez is a senior software quality engineer responsible of coordinate and manage test plans execution, features validation and automated testing for digital tv solutions following agile methodologies.",
         "tags": [
+            "Cloud"
         ],
         "badges": [
         ],
@@ -342,15 +343,15 @@
     "26": {
         "id": 26,
         "featured": false,
-        "name": "Por presentar",
-        "title": "",
-        "company": "",
-        "companyLogo": "",
-        "country": "",
-        "photoUrl": "https://estudiovertice.com/wp-content/uploads/2017/03/silueta2.jpg",
-        "shortBio": "",
-        "bio": "",
-        "tags": [
+        "name": "Juan Carlos Juega",
+        "title": "software architect",
+        "company": "Optiva Media/Metadatol",
+        "companyLogo": "/images/logos/optiva.png",
+        "country": "Madrid",
+        "photoUrl": "/images/people/JuanCarlos.jpg",
+        "shortBio": "Carlos Juega is a software architect in Optiva Media/Metadatol focused on native cloud developments for digital tv solutions following agile methodologies. Responsible from the definition to the delivery of highly scalable secure software solutions.", 
+        "bio": "Carlos Juega is a software architect in Optiva Media/Metadatol focused on native cloud developments for digital tv solutions following agile methodologies. Responsible from the definition to the delivery of highly scalable secure software solutions.",
+        "tags": [ "cloud"
         ],
         "badges": [
         ],

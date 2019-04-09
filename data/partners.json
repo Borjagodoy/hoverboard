@@ -3,11 +3,6 @@
     "title": "general-partner",
     "logos": [
       {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
         "name": "Karumi",
         "url": "https://www.karumi.com/",
         "logoUrl": "https://static1.squarespace.com/static/56dd9af5e707eb815a7f9c86/t/56fbab3d2eeb817eecc15a0c/1549801483737/"
@@ -56,6 +51,26 @@
         "name": "Vertical Galery",
         "url": "https://play.google.com/store/apps/details?id=com.mobsnake.verticalgallery&hl=es",
         "logoUrl": "../images/logos/vertical_gallery_banner.png"
+      },
+      {
+        "name": "Optiva",
+        "url": "http://www.optivamedia.com/",
+        "logoUrl": "/images/logos/optiva.png"
+      },
+      {
+        "name": "Metadol",
+        "url": "http://www.optivamedia.com/",
+        "logoUrl": "/images/logos/metadol.png"
+      },
+      {
+        "name": "Gloin",
+        "url": "https://www.gloin.es/",
+        "logoUrl": "/images/logos/gloin.png"
+      },
+      {
+        "name": "Consejo de estudiantes EPCC",
+        "url": "https://www.unex.es/conoce-la-uex/centros/epcc/consejo_alumnos",
+        "logoUrl": "/images/logos/consejoEpcc.png"
       }
     ]
   },
