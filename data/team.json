@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Core Team",
+    "members": [
+      {
+        "name": "Alberto Capi",
+        "photoUrl": "/images/people/capi.jpg",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/albertokapi",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Organizer"
+      },
+      {
+        "name": "Enrique Pastor",
+        "photoUrl": "/images/people/kike.jpg",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/kike_cisneros",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Organizer"
+      },
+      {
+        "name": "Borja Godoy",
+        "photoUrl": "/images/people/borja.jpeg",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/gody11",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Organizer"
+      }
+    ]
+  }
+]

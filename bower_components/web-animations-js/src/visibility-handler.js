@@ -1,0 +1,1 @@
+!function(i,n){function e(i,n){if("visible"==i||"visible"==n)return[0,1,function(e){return e<=0?i:e>=1?n:"visible"}]}i.addPropertiesHandler(String,e,["visibility"])}(webAnimations1);

@@ -1,0 +1,1 @@
+!function(n,e){n.apply=function(e,t,i){e.style[n.propertyName(t)]=i},n.clear=function(e,t){e.style[n.propertyName(t)]=""}}(webAnimations1,webAnimationsTesting);

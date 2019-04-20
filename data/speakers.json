@@ -1,0 +1,361 @@
+{
+    "1": {
+        "id": 1,
+        "featured": true,
+        "name": "Alberto Gragera",
+        "title": "Head of Engineering, Rider&Driver",
+        "company": "Cabify",
+        "companyLogo": "/images/logos/cabifylogo.png",
+        "country": "London, United Kingdom",
+        "photoUrl": "/images/people/Albertogragera.jpg",
+        "shortBio": "Alberto es el Head of Engineering, Rider&Driver en Cabify. Fue co-founder de Karumi...",
+        "bio": "Alberto es el Head of Engineering, Rider&Driver en Cabify. Fue co-founder de Karumi donde estuvo 3 años dedicado principalmente al desarrollo en iOS y anteriormente trabajó en Tuenti escribiendo *mucho* Javascript y PHP.",
+        "tags": [
+            "Mobile",
+            "Web"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://es.linkedin.com/in/gragera"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/gragera_"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/gragera"
+            }
+        ]
+    },
+    "2": {
+        "id": 2,
+        "featured": true,
+        "name": "Miguel Angel Duran",
+        "title": "Enabler Frontend",
+        "company": "Schibsted",
+        "companyLogo": "/images/logos/Schibstedlogo.jpg",
+        "country": "Barcelona",
+        "photoUrl": "/images/people/MiguelAngelDuran.jpg",
+        "shortBio": "l es un apasionado de las tecnologías web y lo demuestra en Schibsted Spain donde, como Enabler Frontend,...",
+        "bio": "Miguel es un apasionado de las tecnologías web y lo demuestra en Schibsted Spain donde, como Enabler Frontend, da soporte a los equipos para acelerar el desarrollo de productos como Fotocasa, Infojobs y MilAnuncios. Puedes seguirlo en @midudev y su blog https://midudev.com donde comparte lo último en frontend.",
+        "tags": [
+            "Web"
+        ],
+        "badges": [
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "Linkedin",
+                "link": "https://es.linkedin.com/in/miduga"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/midudev"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/midudev"
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "featured": true,
+        "name": "Jorge Castillo",
+        "title": "Mobile Tech Lead",
+        "company": "47Deg",
+        "companyLogo": "/images/logos/47degicon.jpg",
+        "country": "Murcia",
+        "photoUrl": "/images/people/jorgeCastillo.jpg",
+        "shortBio": "Jorge es un desarrollador Android que actualmente desempeña el rol de Mobile Tech Lead en 47 Degrees. Durante los últimos años se ha centrado bastante en la aplicación de Programación Funcional...",
+        "bio": "Jorge es un desarrollador Android que actualmente desempeña el rol de Mobile Tech Lead en 47 Degrees. Durante los últimos años se ha centrado bastante en la aplicación de Programación Funcional al desarrollo de apps móviles, siendo parte actual del equipo de maintainers de Arrow . Puedes seguirle en Twitter @jorgecastillopr, donde dedica tiempo a divulgar conocimiento sobre Android, Programación Funcional y otros aspectos de la programación. Además, es speaker desde hace ya varios años, habiendo impartido charlas en eventos como KotlinConf, Mobilization (Poland), Codemotion, Droidcon, y algunos sitios más.",
+        "tags": [
+            "Android",
+            "Kotlin",
+            "Programación funcional"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "Linkedin",
+                "link": "https://es.linkedin.com/in/jorgecastilloprz"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/JorgeCastilloPr"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/JorgeCastilloPrz"
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "featured": true,
+        "name": "Raul Raja",
+        "title": "CTO",
+        "company": "47Deg",
+        "companyLogo": "/images/logos/47degicon.jpg",
+        "country": "Cadiz",
+        "photoUrl": "/images/people/RaulRaja.jpg",
+        "shortBio": "Raul es CTO en 47 Degrees, maintainer de Arrow , miembro del Scala Center advisory board...",
+        "bio": "Raul es CTO en 47 Degrees, maintainer de Arrow , miembro del Scala Center advisory board y frecuente speaker y contribuidor en Scala, Kotlin y FP. Puedes seguirlo en twitter o github `@raulraja`",
+        "tags": [
+            "Android",
+            "Kotlin",
+            "Scala",
+            "Programación funcional"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "Linkedin",
+                "link": "https://es.linkedin.com/in/raulraja"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/raulraja"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/raulraja"
+            }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "featured": true,
+        "name": "Alba Roza",
+        "title": "Tech Communities & Content Manager at Codemotion",
+        "company": "Codemotion",
+        "companyLogo": "/images/logos/codemotion-logo.jpeg",
+        "country": "Ámsterdam",
+        "photoUrl": "/images/people/albaroza.jpg",
+        "shortBio": "Alba es una periodista especializada en Comunicación tecnológica desde 2011. Actualmente vive en Ámsterdam, donde ayuda a construir Comunidades...",
+        "bio": "Alba es una periodista especializada en Comunicación tecnológica desde 2011. Actualmente vive en Ámsterdam, donde ayuda a construir Comunidades técnicas para Codemotion. Como interesada en la confluencia de las Ciencias Sociales con el manejo de grandes cantidades de datos, busca similitudes con distopías por donde quiera que va.",
+        "tags": [
+            "Comunicación",
+            "Datos",
+            "Comunidad"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "Linkedin",
+                "link": "https://www.linkedin.com/in/albaroza/"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/Alba_Roza"
+            }
+        ]
+    },
+    "6": {
+        "id": 6,
+        "featured": true,
+        "name": "Antonio Leiva",
+        "title": "Freelance Android trainer",
+        "country": "Madrid",
+        "company": "Antonio Leiva",
+        "companyLogo": "/images/logos/Leiva.png",
+        "photoUrl": "/images/people/Leiva.jpg",
+        "shortBio": "Antonio es un formador freelance que ayuda a las empresas y sus equipos Android en la transición a Kotlin desde Java...",
+        "bio": "Antonio es un formador freelance que ayuda a las empresas y sus equipos Android en la transición a Kotlin desde Java. Es el autor del libro y el curso online Kotlin for Android Developers, es Kotlin Trainer Certified by Jetbrains, y comparte sus aprendizajes en http://antonioleiva.com y http://devexperto.com .",
+        "tags": [
+            "Android",
+            "Kotlin"
+        ],
+        "badges": [
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "Linkedin",
+                "link": "https://www.linkedin.com/in/antoniolg/"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/lime_cl"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/antoniolg"
+            }
+        ]
+    },
+    "7": {
+        "id": 7,
+        "featured": true,
+        "name": "Jorge Barroso",
+        "title": "Cofounder & Android Expert",
+        "company": "Karumi",
+        "companyLogo": "https://static1.squarespace.com/static/56dd9af5e707eb815a7f9c86/t/56fbab3d2eeb817eecc15a0c/1549801483737/?format=1500w",
+        "country": "Manchita",
+        "photoUrl": "/images/people/jorge-barroso.png",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Android",
+            "Videojuegos"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "Google Developers Expert",
+                "link": "https://developers.google.com/experts/people/jorge-juan-barroso-carmona"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/jorge-juan-barroso-carmona-a3aa225"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/flipper83"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/flipper83"
+            }
+        ]
+    },
+    "11": {
+        "id": 11,
+        "featured": true,
+        "name": "Elena Torró",
+        "title": "Front-end developer",
+        "company": "Carto",
+        "companyLogo": "/images/logos/CARTO-logo-positive.png",
+        "country": "Murcia",
+        "photoUrl": "/images/people/elenatorro.jpg",
+        "shortBio": "Multimedia Engineer born in Murcia. I love experimenting with web technologies, that's one of the reasons why I joined the frontend team at CARTO",
+        "bio": "Multimedia Engineer born in Murcia. I love experimenting with web technologies, that's one of the reasons why I joined the frontend team at CARTO. I also enjoy water sports, playing music, and writing science fiction stories, between others.",
+        "tags": [
+            "Web"
+        ],
+        "badges": [
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/elenatorro"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/eletorro"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/elenatorro"
+            }
+        ]
+    },
+    "17": {
+        "id": 17,
+        "featured": false,
+        "name": "Yeray Darias",
+        "title": "Backend specialist",
+        "company": "IBM",
+        "companyLogo": "https://pbs.twimg.com/profile_images/1034144028386779136/jOY5cWBR_400x400.jpg",
+        "country": "Madrid",
+        "photoUrl": "/images/people/yeray.jpeg",
+        "shortBio": "Desarrollador de software por el día y pastelero por la noche...",
+        "bio": "Desarrollador de software por el día y pastelero por la noche, Yeray lleva programando desde hace bastante años y ha logrado escabullirse del temible momento de pasar a la gestión. Le gusta entregar producto y para ello escribir código es la única solución posible. De vez en cuando también le gusta la programación teórica de pizarra Vileda, pero sólo si el código lo soporta",
+        "tags": [
+            "Backend",
+            "Spring",
+            "microservicios"
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/ydarias?lang=es"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/ydarias"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/ydarias"
+            }
+        ]
+    },
+
+    "18": {
+        "id": 18,
+        "featured": false,
+        "name": "Maria Martínez Martínez",
+        "title": "Software Quality Engineer",
+        "company": "Optiva Media/Metadatol",
+        "companyLogo": "/images/logos/optiva.png",
+        "country": "Madrid",
+        "photoUrl": "/images/people/Maria.jpg",
+        "shortBio": "María Martínez is a senior software quality engineer responsible of coordinate and manage test plans execution, features validation and automated testing for digital tv solutions following agile methodologies.",
+        "bio": "María Martínez is a senior software quality engineer responsible of coordinate and manage test plans execution, features validation and automated testing for digital tv solutions following agile methodologies.",
+        "tags": [
+            "Cloud"
+        ],
+        "badges": [
+        ],
+        "socials": [
+        ]
+    },
+
+    "26": {
+        "id": 26,
+        "featured": false,
+        "name": "Juan Carlos Juega",
+        "title": "software architect",
+        "company": "Optiva Media/Metadatol",
+        "companyLogo": "/images/logos/optiva.png",
+        "country": "Madrid",
+        "photoUrl": "/images/people/JuanCarlos.jpg",
+        "shortBio": "Carlos Juega is a software architect in Optiva Media/Metadatol focused on native cloud developments for digital tv solutions following agile methodologies. Responsible from the definition to the delivery of highly scalable secure software solutions.", 
+        "bio": "Carlos Juega is a software architect in Optiva Media/Metadatol focused on native cloud developments for digital tv solutions following agile methodologies. Responsible from the definition to the delivery of highly scalable secure software solutions.",
+        "tags": [ "cloud"
+        ],
+        "badges": [
+        ],
+        "socials": [
+        ]
+    }
+}

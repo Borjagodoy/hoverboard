@@ -1,0 +1,97 @@
+[
+  {
+    "title": "general-partner",
+    "logos": [
+      {
+        "name": "Karumi",
+        "url": "https://www.karumi.com/",
+        "logoUrl": "https://static1.squarespace.com/static/56dd9af5e707eb815a7f9c86/t/56fbab3d2eeb817eecc15a0c/1549801483737/"
+      },
+      {
+        "name": "47Deg",
+        "url": "https://www.47deg.com/",
+        "logoUrl": "../images/logos/47degicon.jpg"
+      },
+      {
+        "name": "cabify",
+        "url": "https://cabify.com/en",
+        "logoUrl": "../images/logos/cabifylogo.png"
+      },
+      {
+        "name": "Mobbel",
+        "url": "https://www.mobbeel.com",
+        "logoUrl": "https://www.mobbeel.com/wp-content/uploads/2018/08/logo-mobbeel.png"
+      },
+      {
+        "name": "Sngular",
+        "url": "https://sngular.com",
+        "logoUrl": "https://sngular.com/wp-content/uploads/2018/10/logo_.png"
+      },
+      {
+        "name": "Homeria",
+        "url": "https://www.homeria.com/en/home/",
+        "logoUrl": "https://www.homeria.com/wp-content/uploads/2018/02/Logo2018.png"
+      },
+      {
+        "name": "ASPgems",
+        "url": "https://aspgems.com/",
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx2BJMrrQiTtnMoU2yLdLsPglJ_a4lnwzDErfrI-231Zy59boBLm19AJU"
+      },
+      {
+        "name": "EDD",
+        "url": "https://www.extremaduradigitalday.com/",
+        "logoUrl": "https://pbs.twimg.com/profile_images/1022766462392520706/8fE64L7q_400x400.jpg"
+      },
+      {
+        "name": "Fictizia",
+        "url": "https://www.fictizia.com/",
+        "logoUrl": "../images/logos/fictizia.svg"
+      },
+      {
+        "name": "Vertical Galery",
+        "url": "https://play.google.com/store/apps/details?id=com.mobsnake.verticalgallery&hl=es",
+        "logoUrl": "../images/logos/vertical_gallery_banner.png"
+      },
+      {
+        "name": "Optiva",
+        "url": "http://www.optivamedia.com/",
+        "logoUrl": "/images/logos/optiva.png"
+      },
+      {
+        "name": "Metadol",
+        "url": "http://www.optivamedia.com/",
+        "logoUrl": "/images/logos/metadol.png"
+      },
+      {
+        "name": "Gloin",
+        "url": "https://www.gloin.es/",
+        "logoUrl": "/images/logos/gloin.png"
+      },
+      {
+        "name": "Consejo de estudiantes EPCC",
+        "url": "https://www.unex.es/conoce-la-uex/centros/epcc/consejo_alumnos",
+        "logoUrl": "/images/logos/consejoEpcc.png"
+      }
+    ]
+  },
+  {
+    "title": "colaboration",
+    "logos": [
+      {
+        "name": "FundecytPCTEX",
+        "url": "http://www.fundecyt.es/index.php?idioma=es",
+        "logoUrl": "http://www.fundecyt.es/images/fundecyt-pctex-h.png"
+      }
+    ]
+  },
+  {
+    "title": "support",
+    "logos": [
+      {
+        "name": "Escuela politecnica de Cáceres",
+        "url": "https://www.unex.es/conoce-la-uex/centros/epcc/",
+        "logoUrl": "http://www.cenits.es/sites/cenits.es/files/noticias/logoepcc.jpg"
+      }
+    ]
+  }
+]

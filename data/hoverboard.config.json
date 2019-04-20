@@ -1,0 +1,220 @@
+{
+  "pages": {
+    "home": {
+      "headerSettings": {
+        "backgroundColor": "#000",
+        "backgroundImage": "/images/backgrounds/home.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "video": {
+          "title": "ExFest2016",
+          "youtubeId": "3Zv8p9XSP60",
+          "text": "See how it was in 2016"
+        },
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "headerSettings": {
+        "backgroundColor": "#000",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  },
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/"
+    }
+  ],
+  "url": "https://exfest.tech",
+  "mailchimp": {
+    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
+    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+  },
+  "partnershipProposition": "https://goo.gl/forms/wHgDsRJiUu0v47ZI3",
+  "disqusShortName": "hoverboard-gdg-x",
+  "languages": [
+    {
+      "name": "English",
+      "key": "en"
+    },
+    {
+      "name": "Українська",
+      "key": "uk"
+    }
+  ],
+  "footerBlocks": [
+    {
+      "title": "for-visitors",
+      "links": [
+        {
+          "text": "team",
+          "url": "/team/"
+        },
+        {
+          "text": "cod",
+          "url": "/cod/"
+        },
+        {
+          "text": "google-developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-13",
+          "url": "https://www.autentia.com/2016/07/04/exfest-2016-el-evento-del-gdg-caceres/",
+          "newTab": true
+        },
+        {
+          "text": "df-14",
+          "url": "https://www.autentia.com/2016/07/04/exfest-2016-el-evento-del-gdg-caceres/",
+          "newTab": true
+        },
+        {
+          "text": "df-15",
+          "url": "https://www.autentia.com/2016/07/04/exfest-2016-el-evento-del-gdg-caceres/",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "gdgcaceres@gmail.com",
+        "url": "mailto:gdgcaceres@gmail.com"
+      }
+    ]
+  },
+  "tickets": {
+    "url": "https://goo.gl/forms/8TWOv2IK1fTVMGI23",
+    "elements": [
+      {
+        "name": "student-ticket",
+        "price": 500,
+        "currency": "₴",
+        "starts": "student-ticket-starts",
+        "ends": "student-ticket-ends",
+        "info": "student-ticket-info",
+        "soldOut": false
+      },
+      {
+        "name": "early-ticket",
+        "price": 750,
+        "currency": "₴",
+        "starts": "early-ticket-starts",
+        "ends": "early-ticket-ends",
+        "info": "early-ticket-info",
+        "soldOut": true
+      },
+      {
+        "name": "lazy-ticket",
+        "price": 1000,
+        "currency": "₴",
+        "starts": "lazy-ticket-starts",
+        "ends": "lazy-ticket-ends",
+        "soldOut": false
+      }
+    ]
+  },
+  "teamPageTitle": "team-page-title",
+  "teamPageText": "team-page-text",
+  "statistics": [
+    {
+      "counter": 100,
+      "caption": "Asistentes"
+    },
+    {
+      "counter": 1.5,
+      "caption": "Días"
+    },
+    {
+      "counter": 11,
+      "caption": "Charlas"
+    }
+  ],
+  "hashtag": "#exfest2019",
+  "social": [
+    {
+      "name": "twitter",
+      "nickname": "GDGCaceres",
+      "url": "https://twitter.com/gdgcaceres"
+    }
+  ],
+  "tweetsSource": "/data/tweets.json",
+  "gallery": {
+    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "photos": {
+      "big": "/images/pictures/grande.JPG",
+      "small": [
+        "/images/pictures/pequena1.JPG",
+        "/images/pictures/pequena2.JPG"
+      ]
+    }
+  },
+  "location": {
+    "apiKey": "",
+    "link": "https://www.unex.es/conoce-la-uex/centros/epcc/",
+    "pointer": {
+      "latitude": 39.478896,
+      "longitude": -6.3446487,
+      "zoom": 15
+    },
+    "mapCenter": {
+      "latitude": 39.476219,
+      "longitude": -6.370860
+    },
+    "images": [
+      "https://www.unex.es/conoce-la-uex/centros/epcc/archivos/imagenes/epcc.PNG",
+      "https://pbs.twimg.com/media/DqqtQrxWoAAb7ua.jpg"
+    ]
+  },
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLKxa4AIfm4pUX45qx-5dojelmK7e_0aFO",
+  "callToAction": {
+    "videoTitle": "action-title",
+    "videoId": "3Zv8p9XSP60"
+  }
+}

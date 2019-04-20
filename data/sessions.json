@@ -1,0 +1,89 @@
+{
+    "111": {	
+        "id": 111,	
+        "title": "Registro"
+    },
+    "2": {	
+        "id": 2,	
+        "title": "Keynote",	
+        "description": "Bienvenidos a ExFest 2019"	
+    },
+    "3": {	
+        "id": 3,	
+        "speakers": [	
+            7	
+        ]
+    },
+    "4": {	
+        "id": 4,	
+        "title": "Introducción a las corrutinas en Kotlin",	
+        "description": "Si las tareas en segundo plano, los cambios de hilo o la sincronización entre callbacks te hacen tener pesadillas nocturnas, ¡las corrutinas harán que vuelvas a dormir tranquilo! Paso a paso y de forma muy sencilla, veremos todos los conceptos necesarios para entender cómo funcionan y resolver un problema muy común.",
+        "speakers": [6]		
+    },
+    "5": {	
+        "id": 5,	
+        "title": "Algoritmos y Estructura de Datos... en el Front",	
+        "description": "En esta charla conoceremos algunos casos de uso reales de algoritmos y estructuras de datos que se utilizan en el lado del cliente.",
+        "speakers": [11]		
+    },
+    "6": {	
+        "id": 6,	
+        "title": "Beers and networking",	
+        "description": "Compartamos, visitemos los stands y pasaros por nuestro photocall"	
+    },
+    "7": {	
+        "id": 7,
+        "title": "Regreso al futuro del frontend",	
+        "description": "Decía Albert Enstein que nunca pensaba en el futuro porque llegaba demasiado pronto. A mi me va a perdonar, pero no hay día que no piense en cómo será el frontend de mañana. Tantas vueltas le he dado, que me he comprado un DeLorean DMC-12 y he viajado al año que viene para ver qué nos espera. ¿Librerías? A donde vamos no necesitamos librerías.",
+        "speakers": [2]		
+    },
+    "8": {	
+        "id": 8,
+        "title": "12-Factor Apps Today",	
+        "description": "En términos de desarrollo de software ya ha llovido bastante desde que Heroku presentase su manifiesto 12-Factor Apps. En esta charla haremos una introducción a estos 12 factores así como una revisión de cómo han evolucionado y nuevos factores a tener en cuenta. Aunque se verá algo de código o alguna herramienta concreta, la charla está enfocado como una introducción y será agnóstica al lenguaje que usemos en el día a día.",
+        "speakers": [17]		
+    },
+    "9": {	
+        "id": 9,
+        "title": "Coffe break!!",	
+        "description": "No hay nada más extremeño que unas migas"
+    },
+
+    "10": {	
+        "id": 10,
+        "title": "Surviving the free load test day",	
+        "description": "On September 26th Cabify rides were free for from 10:00 to 22:00. Even though we tried to prepare ourselves during the previous weeks, we had a lot of problems and learned a lot during the (painful) process. This talk will go through the chain of events, what went well and what went wrong and what we have learned for the next free ~load test~ day",
+        "speakers": [1]		
+    },
+    "11": {	
+        "id": 11
+    },
+    "12": {	
+        "id": 12,
+        "title": "Comida"
+    },
+    "13": {	
+        "id": 13,
+        "title": "Arrow Fx : Programacion Funcional Tipada para las masas",	
+        "description": "Arrow Fx es un sistema de control de efectos para describir aplicaciones que interactuan con side effects en Kotlin. Basado en la libreria Arrow y en el sistema de suspension de Kotlin , Arrow Fx elimina la necesidad de usar callbacks o binds explicitos cuando se computa sobre el contexto de un efecto asincrono o concurrente. Esto implica que los programadores pueden utilizar la misma programacion imperativa que conocen hoy para escribir programas puramente funcionales donde el compilador garantiza que los side effects solo se ejecutan de forma segura y controlada preservando la referencia transparencial de cada una de las partes del programa. Arrow Fx lleva la syntaxis a un nuevo nivel en la JVM eliminando la necesidad de usar genericos sobre `F` tal como se hace hoy en dia en tecnicas como Tagless Final y en diversos lenguajes como Scala, Java o Kotlin haciendo la programacion polimorfica tipada en Kotlin accesible al resto de programadores sin previa experiencia en programacion funcional. En esta charla veremos como podemos usar Kotlin y Arrow para construir programas puros polimorficos que interactuan con side effects usando sintaxis directa y preservando la naturaleza non-blocking del sistema de continuaciones de Kotlin.",
+        "speakers": [4,3]		
+    },
+    "14": {	
+        "id": 14,
+        "title": "El futuro llegó hace rato. Perspectivas ante la automatización del trabajo",	
+        "speakers": [5]		
+    },
+    "15": {	
+        "id": 15,
+        "title": "Descanso"
+    },
+    "16": {	
+        "id": 16,
+        "title": ""
+    },
+    "17": {	
+        "id": 17,
+        "title": "Premios y Despedida"
+    }
+    
+}

@@ -1,0 +1,1 @@
+!function(n){function r(n){var r=Number(n);if(!(isNaN(r)||r<100||r>900||r%100!=0))return r}function t(r){return r=100*Math.round(r/100),r=n.clamp(100,900,r),400===r?"normal":700===r?"bold":String(r)}function i(n,r){return[n,r,t]}n.addPropertiesHandler(r,i,["font-weight"])}(webAnimations1);

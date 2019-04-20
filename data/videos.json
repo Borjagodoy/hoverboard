@@ -1,0 +1,38 @@
+[
+  {
+    "youtubeId": "TytlTdPUnU4",
+    "title": "Programación defensiva y sistemas resilientes en el mundo real",
+    "speakers": "Joquin Engelmo",
+    "thumbnail": "/images/sessions/kini.png"
+  },
+  {
+    "youtubeId": "f8eoWV7AHjU",
+    "title": "Mama tengo que poner un chip cuántico en el cloud",
+    "speakers": "Ismael Faro",
+    "thumbnail": "/images/sessions/Isma.png"
+  },
+  {
+    "youtubeId": "acrYzKp5jIk",
+    "title": "Programando en diferido",
+    "speakers": "Jorge Barroso",
+    "thumbnail": "/images/sessions/Jorge.png"
+  },
+  {
+    "youtubeId": "7hVULDW5ytU",
+    "title": "Managing legacy at twitter scale",
+    "speakers": "Cesar Puerta",
+    "thumbnail": "/images/sessions/Cesar.png"
+  },
+  {
+    "youtubeId": "i1f2x0ogAho",
+    "title": "World-class testing development pipeline for android",
+    "speakers": "Pedro Vicente",
+    "thumbnail": "/images/sessions/PedroVicente.png"
+  },
+  {
+    "youtubeId": "tOA7bX8PO90",
+    "title": "From web app to progressive web app",
+    "speakers": "Salvador de la Puente",
+    "thumbnail": "/images/sessions/Salva.png"
+  }
+]

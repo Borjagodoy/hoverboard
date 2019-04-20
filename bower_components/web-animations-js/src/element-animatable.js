@@ -1,0 +1,1 @@
+!function(e){window.Element.prototype.animate=function(i,n){var t="";return n&&n.id&&(t=n.id),e.timeline._play(e.KeyframeEffect(this,i,n,t))}}(webAnimations1);
