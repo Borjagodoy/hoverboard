@@ -9,7 +9,8 @@
         "description": "Bienvenidos a ExFest 2019"	
     },
     "3": {	
-        "id": 3,	
+        "id": 3,
+        "title": "Chorpresa!! rompamos el hielo",	
         "speakers": [	
             7	
         ]
@@ -56,7 +57,10 @@
         "speakers": [1]		
     },
     "11": {	
-        "id": 11
+        "id": 11,
+        "title": "¡El futuro ya está aquí! Elimina tu infraestructura on-premise",	
+        "description": "¡El futuro ya está aquí! Elimina tu infraestructura on-premise gracias a la escalabilidad del cloud. Te mostraremos casos reales de arquitecturas serverless desde su definición, desarrollo, despliegue y validación. ¿Quieres volver a tener tiempo libre? Te enseñamos como: automatiza tus procesos de prueba.",
+        "speakers": [26,18]	
     },
     "12": {	
         "id": 12,
@@ -77,13 +81,18 @@
         "id": 15,
         "title": "Descanso"
     },
-    "16": {	
-        "id": 16,
-        "title": ""
-    },
+
     "17": {	
         "id": 17,
         "title": "Premios y Despedida"
+    },
+    "16": {	
+        "id": 16,
+        "title": "IBM Crypto Anchor Verifier",	
+        "description": "Verifier es una solucion que permite escanear productos para destectar su autenticidad. En la charla veremos como está construido, sus propiedad y su desarrollo a futuro. Veremos los retos que ha supesto realizar una solución hardware a la vez que se realiza el sotware y el desarrollo y las implicaciones de realizar desarrollo con un alto componente de IA. Además veremos los pasos que queremos dar a futuro y como podrían encajar soluciones basadas en blockchain.",
+        "speakers": [	
+            7	
+        ]
     }
     
 }
